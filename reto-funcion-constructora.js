@@ -21,5 +21,5 @@ for(var i=0; i<3;i++){
 }
 
 console.log(autos)
-// var autoCorolla = new auto("Corolla", "Model 97", 1997);
+// var autoCorolla = new auto("Corolla", "Model 97", 1997); v2
 
